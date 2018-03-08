@@ -1,0 +1,65 @@
+/* add your CSS here */
+h1{
+	color: white;
+	margin-top: 5px;
+}
+
+/* Always put a blank line (two line breaks) between rules. */
+body{
+	font-family:  sans-serif;
+}
+
+
+.interest{
+	font-family: cursive;
+	font-style: italic;
+	margin: 10px;
+}
+
+
+ul{
+	list-style-type: none;
+	padding: 5px 5px 10px 10px;
+}
+
+
+.list{
+	font-weight: 800;
+	padding: 0;
+}
+/* Omit unit specification after 0 values. */
+
+.description{
+	margin: 10px;
+}
+
+
+.card-border{
+	border: 5px groove #93ed40;
+	border-radius: 10px;
+	background-color: #373835;
+	width: 320px;
+	padding: 5px;
+}
+
+
+.image{
+	width: 300px;
+	border-radius: 15px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 10px;
+}
+
+
+.text-border{
+	border: 3px solid #4173c1;
+	border-radius: 20px;
+	background-color: #f4dc42;
+	width: 300px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px;
+}
+
+
